@@ -5,9 +5,13 @@ Working Design of Backend: Express Js and AWS Dynamo DB
 ## Table of Contents
 
 1 Synopsis
+
 2 Technologies
+
 3 Setup
+
 4 Launch
+
 5 Description
 
 
